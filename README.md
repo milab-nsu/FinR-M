@@ -1,1 +1,6 @@
-# FinR-M
+<h1 align="center">Bidirectional Reasoning Supervision for Multilingual Financial Decision Making</h1>
+<h4 align="center">📄 Accepted at <strong>EMNLP 2025 (Industry Track)</strong></h4>
+
+Our approach introduces a **bidirectional reasoning supervision** mechanism that leverages both *positive* and *negative rationales* to enhance financial decision-making across multiple languages. The method significantly improves interpretability, robustness, and cross-lingual generalization in financial NLP tasks.
+
+
